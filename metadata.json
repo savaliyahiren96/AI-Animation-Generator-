@@ -1,0 +1,6 @@
+{
+  "name": "BioMotion 3D: Medical Educational Animation Studio",
+  "description": "Professional 3D medical and physiotherapy animation studio for creating biomechanically accurate, narrated educational videos, interactive anatomy simulations, and clinical storyboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
